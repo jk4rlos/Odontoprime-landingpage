@@ -39,6 +39,7 @@ O projeto está organizado da seguinte forma:
 3. Abra o arquivo `index.html` em seu navegador.
 
 ## Autor
+Esse site foi contruízo por [José Carlos de Souza Neto]
 
 
 
