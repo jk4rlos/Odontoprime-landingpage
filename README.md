@@ -1,4 +1,4 @@
-# Odonto Landing Page
+# Odonto Landing Page 🦷
 
 Este projeto é uma landing page desenvolvida para uma clínica odontológica. O objetivo principal é fornecer informações sobre os serviços oferecidos, atrair novos pacientes e facilitar o contato com a clínica.
 
@@ -37,6 +37,16 @@ O projeto está organizado da seguinte forma:
     cd Odontoprime-landingpage
     ```
 3. Abra o arquivo `index.html` em seu navegador.
+
+##Observações
+-Ao executar da fomra acima, não estará presente a funcionalidade de chatbot, sendo apenas uma 
+maneira de viajar pelos arquivos fontes!
+
+-Para execitar de maneira integral a aplicação, basta seguir o link a seguir:
+```
+clinicaodontoprime.vercel.app
+```
+-Para o upload do projeto pelo link acima, foi ultilizado a plataforma **Versel**
 
 ## Autor
 Esse site foi contruízo por [José Carlos de Souza Neto]
