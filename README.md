@@ -48,6 +48,11 @@ clinicaodontoprime.vercel.app
 ```
 - Para o upload do projeto pelo link acima, foi ultilizado a plataforma **Versel**
 
+-Todo e qualquer link para contato e redes sociais foi montado para que possa ser preenchido com a de uma clínica real!
+Tem-se como padrão para os botões de rede social o link `/suaclinica`.
+
+-Toda e qualquer menção à alguma clínica ou usuário que se encaixe no padrão de url é coincidência!
+
 ## Autor
 Esse site foi construído por [José Carlos de Souza Neto]
 
