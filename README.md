@@ -30,11 +30,11 @@ O projeto está organizado da seguinte forma:
 
 1. Clone este repositório:
     ```
-    git clone <URL_DO_REPOSITORIO>
+    git clone <(https://github.com/jk4rlos/Odontoprime-landingpage)>
     ```
 2. Navegue até o diretório do projeto:
     ```
-    cd odonto-landingpage
+    cd Odontoprime-landingpage
     ```
 3. Abra o arquivo `index.html` em seu navegador.
 
