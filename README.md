@@ -39,7 +39,7 @@ O projeto está organizado da seguinte forma:
 3. Abra o arquivo `index.html` em seu navegador.
 
 ## Observações
-- Ao executar da fomra acima, não estará presente a funcionalidade de chatbot, sendo apenas uma 
+- Ao executar da forma acima, não estará presente a funcionalidade de chatbot, sendo apenas uma 
 maneira de viajar pelos arquivos fontes!
 
 - Para execitar de maneira integral a aplicação, basta seguir o link a seguir:
