@@ -42,7 +42,7 @@ O projeto está organizado da seguinte forma:
 - Ao executar da forma acima, não estará presente a funcionalidade de chatbot, sendo apenas uma 
 maneira de viajar pelos arquivos fontes!
 
-- Para execitar de maneira integral a aplicação, basta seguir o link a seguir:
+- Para executar de maneira integral a aplicação, basta seguir o link a seguir:
 ```
 clinicaodontoprime.vercel.app
 ```
