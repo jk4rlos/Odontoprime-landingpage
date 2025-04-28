@@ -46,7 +46,7 @@ maneira de viajar pelos arquivos fontes!
 ```
 clinicaodontoprime.vercel.app
 ```
-- Para o upload do projeto pelo link acima, foi ultilizado a plataforma **Versel**
+- Para o upload do projeto pelo link acima, foi ultilizado a plataforma **Vercel**
 
 -Todo e qualquer link para contato e redes sociais foi montado para que possa ser preenchido com a de uma clínica real!
 Tem-se como padrão para os botões de rede social o link `/suaclinica`.
