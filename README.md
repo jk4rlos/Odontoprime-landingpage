@@ -9,7 +9,7 @@ O projeto está organizado da seguinte forma:
 - **HTML**: Estrutura principal da página.
 - **CSS**: Estilização e design responsivo.
 - **JavaScript**: Funcionalidades interativas, como formulários e animações.
-- **ImageS**: Recursos visuais, como logotipos e fotos ilustrativas.
+- **Images**: Recursos visuais, como logotipos e fotos ilustrativas.
 
 ## Funcionalidades
 
